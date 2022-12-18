@@ -24,6 +24,5 @@ public class C03_FirefoxTest {
 
         Thread.sleep(3000);
         driver.quit();
-
     }
 }
